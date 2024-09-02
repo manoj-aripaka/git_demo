@@ -1,2 +1,2 @@
-this is reademe
+this is readme
 okay?
